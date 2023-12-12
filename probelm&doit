@@ -1,1 +1,4 @@
+python bin/predict.py model.path=$(pwd)/big-lama indir=$(pwd)/test_images outdir=./output1 device=cpu
+# using in 182
+using gpu cannot successfully
 
